@@ -1,1 +1,1 @@
-# git_test
+This is Shenc's first git project!
